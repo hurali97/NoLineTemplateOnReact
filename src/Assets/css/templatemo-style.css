@@ -172,6 +172,7 @@ video::-webkit-media-controls {
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   -webkit-transition: all 0.2s linear;
+  cursor:pointer;
 }
 
 .content {
