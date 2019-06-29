@@ -4,7 +4,7 @@ import About2 from '../Assets/img/right-about-image.jpg';
 
 const About =()=>{
     return(
-        <li className="selected">
+        <li className="selected animated fadeInRight">
 <div className="heading">
   <h1>About Us</h1>
   <span>Get More Info About Our Agency</span> 

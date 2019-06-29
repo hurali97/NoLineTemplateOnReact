@@ -6,7 +6,7 @@ import project4 from "../Assets/img/project-item-04.jpg";
 
 const Projects = () =>{
     return(
-        <li className="selected">
+        <li className="selected animated fadeInRight">
 <div className="heading">
   <h1>Our projects</h1>
   <span>Here you can check our recent projects</span> 

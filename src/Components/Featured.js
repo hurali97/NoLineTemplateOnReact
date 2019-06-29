@@ -3,7 +3,7 @@ import FeaturedImage from '../Assets/img/left-feature-image.png';
 
 const Featured=()=>{
     return(
-        <li className="selected">
+        <li className="selected animated fadeInRight">
 <div className="heading">
   <h1>Featured</h1>
   <span>We produce featured product every week</span> 

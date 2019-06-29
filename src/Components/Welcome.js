@@ -2,7 +2,7 @@ import React from 'react';
 
 const Welcome=()=>{
 return(
-    <li className="selected">
+    <li className="selected animated fadeInRight">
        
          
     <div className="heading">

@@ -4,6 +4,7 @@ import './Assets/css/bootstrap.min.css'
 import './Assets/css/bootstrap-theme.min.css'
 import './Assets/css/fontAwesome.css'
 import './Assets/css/templatemo-style.css'
+import './Assets/css/animate.css'
 import homeIcon from './Assets/img/home-icon.png';
 import aboutIcon from './Assets/img/about-icon.png';
 import featuredIcon from './Assets/img/featured-icon.png';
@@ -91,7 +92,7 @@ class App extends React.Component {
           <div>
 
             <div className="cd-slider-nav">
-              <nav>
+              <nav >
                 <span className="cd-marker item-1"></span>
                 <ul>
                   <li><div className="image-icon" onClick={() => this.setDisplay('welcome')}><img src={homeIcon} /></div><h6>Welcome</h6></li>

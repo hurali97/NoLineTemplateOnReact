@@ -2,7 +2,7 @@ import React from 'react';
 
 const Contact =()=>{
 return(
-    <li className="selected">
+    <li className="selected animated fadeInRight">
     <div className="heading">
       <h1>Contact us</h1>
       <span>You'll be responded within 48 hrs</span> 
